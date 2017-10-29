@@ -7,7 +7,7 @@ comments: false
 ---
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-
+*TRATAMOS DE MEJORAR*
 ## Features
 * Grupo de entusiastas
 * Responsive
