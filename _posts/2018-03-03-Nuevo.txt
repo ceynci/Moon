@@ -7,13 +7,14 @@ tags: [sample post, readability, test]
 comments: true
 ---
 
-=Hechos=
-Pretendemos dinamizar la interacción sistémica de la comunidad universitaria
-# hecho uno
-# hecho dos
-# hecho tres
+##Hechos
+Pretendemos dinamizar la interacción sistémica de la comunidad universitaria.
 
-## Cupidatat 90's lo-fi authentic try-hard
+1. hecho uno
+2. hecho dos
+3. hecho tres
+
+##Cupidatat 90's lo-fi authentic try-hard
 
 In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. 
 
